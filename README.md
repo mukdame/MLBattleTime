@@ -20,6 +20,6 @@ by Arthur Samuel (1959).
 2. Unsupervised learning (not given results)
    <ul>
     <li>Anomaly Detection</li>
-    <li>PCA: Principle Component Analysi</li>
+    <li>PCA: Principle Component Analysis</li>
     <li>K-means</li>
    </ul>
